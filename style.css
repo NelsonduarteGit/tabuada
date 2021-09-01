@@ -73,3 +73,10 @@ input {
   text-align: center;
   color: white;
 }
+
+
+@media (max-width: 680px) {
+  #calculadora {
+    width: 80vw;
+  }
+}
